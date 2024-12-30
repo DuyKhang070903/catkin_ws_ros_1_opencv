@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -isystem /usr/src/googletest/googlemock/include -isystem /usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/ros_essentials_cpp",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ros_essentials_cpp\\\" -I/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -g   -o CMakeFiles/image_pub_sub_cpp.dir/src/topic03_perception/cpp/image_pub_sub.cpp.o -c /home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic03_perception/cpp/image_pub_sub.cpp",
+  "file": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic03_perception/cpp/image_pub_sub.cpp"
+},
+{
+  "directory": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/ros_essentials_cpp",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ros_essentials_cpp\\\" -I/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4  -g   -o CMakeFiles/listener_node.dir/src/topic01_basics/talker_listener/listener.cpp.o -c /home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic01_basics/talker_listener/listener.cpp",
+  "file": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic01_basics/talker_listener/listener.cpp"
+},
+{
+  "directory": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/ros_essentials_cpp",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ros_essentials_cpp\\\" -Dlaserscan_lib_EXPORTS -I/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4  -g -fPIC   -o CMakeFiles/laserscan_lib.dir/src/topic04_perception02_laser/laserscan/LaserScanner.cpp.o -c /home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic04_perception02_laser/laserscan/LaserScanner.cpp",
+  "file": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic04_perception02_laser/laserscan/LaserScanner.cpp"
+},
+{
+  "directory": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/ros_essentials_cpp",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ros_essentials_cpp\\\" -I/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -g   -o CMakeFiles/read_video_cpp.dir/src/topic03_perception/cpp/read_video.cpp.o -c /home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic03_perception/cpp/read_video.cpp",
+  "file": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic03_perception/cpp/read_video.cpp"
+},
+{
+  "directory": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/ros_essentials_cpp",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ros_essentials_cpp\\\" -I/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -g   -o CMakeFiles/open_copy_cpp.dir/src/topic03_perception/cpp/open_copy.cpp.o -c /home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic03_perception/cpp/open_copy.cpp",
+  "file": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic03_perception/cpp/open_copy.cpp"
+},
+{
+  "directory": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/ros_essentials_cpp",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ros_essentials_cpp\\\" -I/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4  -g   -o CMakeFiles/scan_subscriber_cpp.dir/src/topic04_perception02_laser/scan_subscriber.cpp.o -c /home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic04_perception02_laser/scan_subscriber.cpp",
+  "file": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic04_perception02_laser/scan_subscriber.cpp"
+},
+{
+  "directory": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/ros_essentials_cpp",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ros_essentials_cpp\\\" -I/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4  -g   -o CMakeFiles/add_two_ints_server.dir/src/topic01_basics/service/add_two_ints_server.cpp.o -c /home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic01_basics/service/add_two_ints_server.cpp",
+  "file": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic01_basics/service/add_two_ints_server.cpp"
+},
+{
+  "directory": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/ros_essentials_cpp",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ros_essentials_cpp\\\" -Dutility_lib_EXPORTS -I/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4  -g -fPIC   -o CMakeFiles/utility_lib.dir/src/topic04_perception02_laser/laserscan/utility_lib.cpp.o -c /home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic04_perception02_laser/laserscan/utility_lib.cpp",
+  "file": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic04_perception02_laser/laserscan/utility_lib.cpp"
+},
+{
+  "directory": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/ros_essentials_cpp",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ros_essentials_cpp\\\" -I/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4  -g   -o CMakeFiles/turtlesim_clean_node.dir/src/topic02_motion/turtlesim/robot_cleaner.cpp.o -c /home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic02_motion/turtlesim/robot_cleaner.cpp",
+  "file": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic02_motion/turtlesim/robot_cleaner.cpp"
+},
+{
+  "directory": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/ros_essentials_cpp",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ros_essentials_cpp\\\" -I/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4  -g   -o CMakeFiles/add_two_ints_client.dir/src/topic01_basics/service/add_two_ints_client.cpp.o -c /home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic01_basics/service/add_two_ints_client.cpp",
+  "file": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic01_basics/service/add_two_ints_client.cpp"
+},
+{
+  "directory": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/ros_essentials_cpp",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ros_essentials_cpp\\\" -I/home/duykhang0709/catkin_ws_ros_1_opencv/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4  -g   -o CMakeFiles/talker_node.dir/src/topic01_basics/talker_listener/talker.cpp.o -c /home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic01_basics/talker_listener/talker.cpp",
+  "file": "/home/duykhang0709/catkin_ws_ros_1_opencv/src/ros_essentials_cpp/src/topic01_basics/talker_listener/talker.cpp"
+}
+]

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/duykhang0709/catkin_ws_ros_1_opencv/devel/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/duykhang0709/catkin_ws_ros_1_opencv/devel
+
+Name: ros_basics_tutorials
+Description: Description of ros_basics_tutorials
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240915-1604-Experimental"
+	Name="duykhang0709CP"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="duykhang0709CP"
+	OSRelease="5.15.0-119-generic"
+	OSVersion="#129~20.04.1-Ubuntu SMP Wed Aug 7 13:07:13 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ProcessorCacheSize="9216"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15838"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2200"
+	>
+	<Testing>
+		<StartDateTime>Sep 15 23:04 +07</StartDateTime>
+		<StartTestTime>1726416282</StartTestTime>
+		<TestList/>
+		<EndDateTime>Sep 15 23:04 +07</EndDateTime>
+		<EndTestTime>1726416282</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
